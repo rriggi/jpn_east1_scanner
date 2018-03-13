@@ -12,7 +12,6 @@ public class Logic {
     ArrayList urlList = new ArrayList();
 
 
-    //http://p3.aleado.com/pic?system=auto&date=2018-03-13&auct=8&bid=20085&number=1
 
 
     public String incrementUrl(){
